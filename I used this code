@@ -1,7 +1,7 @@
 {{User:MiszaBot/config
 |archive             = Talk:Sarim_Wani/Archives/%(counter)d
 |algo                = old(7d)
-|maxarchivesize      = 50M
+|maxarchivesize      = 14K
 |minthreadsleft      = 3
 |minthreadstoarchive = 1
 |archiveheader       = {{talkarchive}}
